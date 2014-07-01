@@ -1,6 +1,11 @@
 8_puzzle_Astar
 ==============
 
+This is an Eclipse Project. To import the project:  
+
+File->Import->Existing Projects into Workspace->Browse->Finish 
+
+
 This is a JAVA implementation for the 8 puzzle problem using the A* algorithm. 
 It was developed as part of an Artificial Intelligence course. It supports a 
 GUI making it easy for users to enter the problem they want to solve. 

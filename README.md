@@ -9,6 +9,7 @@ Furthermore, a simple animation demonstrates the solution of the puzzle.
 The A* Algorithm utilizes the following heuristics:
 a) Misplaced Tiles. This heuristics counts the number of misplaced tiles
    comparing the current puzzle state with the final state (solution)
+   
 b) Euclidean Distance is the distance between two tiles that one would 
    measure with a ruler, and is given by the Pythagorean formula.
 c) The distance between two tiles in a grid based on a strictly horizontal 
